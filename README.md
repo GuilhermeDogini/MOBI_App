@@ -10,7 +10,7 @@ Projeto destiando ao Frontend utilizando Flutter e Dart, e no Backend consumindo
 
 O **Projeto** é um App utilizando o Flutter e o Dart desenvolvido para fazer um clone de uma empressa chamada MOBI, o projeto faz requisições em uma API que está rodando no Heroku, Possui um login sem a possibilidade de fazer Registro (O login para acessar será passado abaixo, ou se quiser registrar o seu proprio utilize a API que esta no link logo acima).
 
-###### Login e Senha 
+##### Login e Senha 
 
 - Login: flutter@teste.com
 - Senha: teste123
@@ -43,28 +43,10 @@ Para obter uma cópia do projeto em sua máquina local, abra o terminal e faça 
 
 ```bash
 # Clonar repositório
-$ git clone https://github.com/GuilhermeDogini/Auth-jwt.git
+$ git clone https://github.com/GuilhermeDogini/MOBI_App.git
 ```
 ---
 
-## Deploy
-
-Neste projeto estamos utilizando a ferramenta **Heroku** :
-### Link da aplicação no Heroku : https://app-test-final.herokuapp.com
-
-
-## Executando Local (se preferir, mas a mesma esta rodando na rede Heroku)
-
-```bash
-
-# Entrar no diretório raíz
-$ cd Auth-jwt
-
-# Instalar dependências do repositório de autencicação e iniciar projeto
-$ npm install
-$ npm run start
-
-```
 ---
 
 
