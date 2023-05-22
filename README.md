@@ -1,14 +1,14 @@
 # Resumo projeto
 
-Projeto destinado ao Frontend utilizando Flutter e Dart, e no Backend consumindo um API de autenticação em Node
+Projeto destinado ao App mobile utilizando Flutter e Dart, e no Backend consumindo um API de autenticação em Node
 
 ##### API Backend
-- A API que o Frontend consome esta localizada no meu Github: https://github.com/GuilhermeDogini/Auth-jwt
+- A API que o App mobile consome esta localizada no meu Github: https://github.com/GuilhermeDogini/Auth-jwt
 ---
 
 ## Sobre o projeto
 
-O **Projeto** é um App utilizando o Flutter e o Dart desenvolvido para fazer um clone de uma empresa chamada MOBI, o projeto faz requisições em uma API que está rodando no Heroku, Possui um login sem a possibilidade de fazer Registro (O login para acessar será passado abaixo, ou se quiser registrar o seu próprio utilize a API que esta no link logo acima).
+O **Projeto** é um App mobile utilizando o Flutter e o Dart desenvolvido para fazer um clone de uma empresa chamada MOBI, o projeto faz requisições em uma API que está rodando no Heroku, Possui um login sem a possibilidade de fazer Registro (O login para acessar será passado abaixo, ou se quiser registrar o seu próprio utilize a API que esta no link logo acima).
 
 ##### Login e Senha 
 
@@ -20,7 +20,7 @@ O **Projeto** é um App utilizando o Flutter e o Dart desenvolvido para fazer um
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-###### Frontend(Flutter)
+###### App mobile(Flutter)
   - Dart
   - Flutter
   - heroku
@@ -60,7 +60,7 @@ $ git clone https://github.com/GuilhermeDogini/MOBI_App.git
 
 ## Resumo
 
-Um projeto destinado a fazer um clone, com autenticação de e-mail, com método de login e com navegação entre telas, todas as telas são interativas e a maioria dos conteúdos são dinâmicos podendo ser mudado no código ou com as informações passadas no login da aplicação, é possível adicionar métodos nos botões que estão sem nenhuma ação, se observarem no código á uma parte comentada onde você poderá incluir seus métodos para adicionar suas funções, em resumo é isto espero que tenham gostado. 
+Um projeto destinado a fazer um clone, com autenticação de e-mail, com método de login e com navegação entre telas, todas as telas são interativas, é possível adicionar métodos nos botões que estão sem nenhuma ação, se observarem no código á uma parte comentada onde você poderá incluir seus métodos para adicionar suas funções, em resumo é isto espero que tenham gostado. 
 
 
 
