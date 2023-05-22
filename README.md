@@ -12,8 +12,8 @@ O **Projeto** é um App utilizando o Flutter e o Dart desenvolvido para fazer um
 
 ###### Login e Senha 
 
-Login: flutter@teste.com
-Senha: teste123
+- Login: flutter@teste.com
+- Senha: teste123
 ---
 
 ## Stack
