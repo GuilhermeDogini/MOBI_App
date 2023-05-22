@@ -34,8 +34,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
   - bcrypt
   - heroku
   
-*É necessário possuir a versão 3.10.1 ou superior do Flutter para executar o projeto.*
-*É necessário utilizar o Android Studio*
+ *É necessário possuir a versão 3.10.1 ou superior do Flutter para executar o projeto*, *É necessário utilizar o Android Studio*
 ---
 
 ## Início Rápido
